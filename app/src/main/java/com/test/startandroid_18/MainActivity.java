@@ -7,7 +7,7 @@ import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.SeekBar;
-
+//Hello all
 
 public class MainActivity extends ActionBarActivity implements SeekBar.OnSeekBarChangeListener{
 
